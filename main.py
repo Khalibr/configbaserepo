@@ -1,0 +1,1 @@
+print("¡Hola, mundo! Entorno de backend y escritorio configurado con éxito.")
