@@ -1,0 +1,11 @@
+[33mcommit 89c7815fb60731574f94314425843bca523058c5[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Author: Khalibr <julianmedina219@gmail.com>
+Date:   Thu Sep 3 03:39:12 2026 -0300
+
+    feat: se añade requirements.txt y actualizacion de script principal de prueba
+
+[33mcommit 1eef4a4a11897ce4c17369821b3c6f710bd42e8c[m
+Author: Khalibr <julianmedina219@gmail.com>
+Date:   Thu Sep 3 02:49:24 2026 -0300
+
+    feat: inicializa estructura base del proyecto y primer script de prueba
